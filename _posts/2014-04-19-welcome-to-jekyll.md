@@ -3,7 +3,10 @@ layout: post
 title:  "有哪些让你相见恨晚的 PPT 制作技术或知识？"
 date:   2016-01-27 16:49:53
 author: jekyll
----
+--------------
+
+![computers]({{site.url}}/images/blog-people.jpg)
+
 2016.1.27
 更新「开源设计师资源库」，欢迎大家一起补充！
 ----------------------
