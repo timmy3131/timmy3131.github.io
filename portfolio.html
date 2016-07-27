@@ -2,99 +2,127 @@
 layout: default
 title: Portfolio
 section_id: portfolio
-categories:
-  - name: Graphic Design
-  - name: Product
-  - name: Keynote
-  - name: Development
-  - name: Psychological Counseling
-
 works:
-  - image: work-1.jpg
-    title: Reap Girls
-    categories:
-      - name: Graphic Design
-  - image: work-2.jpg
-    title: Aiyinfa Web
-    categories:
-      - name: Web Design
-      - name: Print
-  - image: work-3.jpg
-    title: Aiyinfa publicity film
-    categories:
-      - name: Graphic Design
-  - image: work-4.jpg
-    title: Design Resources
-    categories:
-      - name: Development
-  - image: work-6.jpg
-    title: VSPORT
-    categories:
-      - name: Keynote
-  - image: work-5.jpg
-    title: Good Thins list
-    categories:
-      - name: Product
-
-  - image: work-7.jpg
-    title: Xinjiang zuimei
-    categories:
-      - name: Keynote
-  - image: work-8.jpg
-    title: Photography
-    categories:
-      - name: Graphic Design
-  - image: work-1.jpg
-    title: Zhihu
-    categories:
-      - name: Development
-      - name: Print
+  - image: images/@stock/work-1.jpg
+    title: Beautiful Girl
+    link_to: portfolio-item2.html
+    klass: graphic-design
+    desc: Design &amp; Development
+  - image: images/@stock/work-2.jpg
+    title: Beautiful Girl
+    link_to: portfolio-item.html
+    klass: web-design print
+    desc: Design &amp; Development
+  - image: images/@stock/work-3.jpg
+    title: Beautiful Girl
+    link_to: portfolio-item.html
+    klass: brand
+    desc: Design &amp; Development
+  - image: images/@stock/work-4.jpg
+    title: Beautiful Girl
+    link_to: portfolio-item.html
+    klass: development
+    desc: Design &amp; Development
+  - image: images/@stock/work-5.jpg
+    title: Beautiful Girl
+    link_to: portfolio-item.html
+    klass: print brand
+    desc: Design &amp; Development
+  - image: images/@stock/work-6.jpg
+    title: Beautiful Girl
+    link_to: portfolio-item.html
+    klass: web-design
+    desc: Design &amp; Development
+  - image: images/@stock/work-7.jpg
+    title: Beautiful Girl
+    link_to: portfolio-item.html
+    klass: web-design
+    desc: Design &amp; Development
+  - image: images/@stock/work-8.jpg
+    title: Beautiful Girl
+    link_to: portfolio-item.html
+    klass: graphic-design
+    desc: Design &amp; Development
+  - image: images/@stock/work-1.jpg
+    title: Beautiful Girl
+    link_to: portfolio-item.html
+    klass: development print
+    desc: Design &amp; Development
+  - image: images/@stock/work-2.jpg
+    title: Beautiful Girl
+    link_to: portfolio-item.html
+    klass: brand
+    desc: Design &amp; Development
+  - image: images/@stock/work-3.jpg
+    title: Beautiful Girl
+    link_to: portfolio-item.html
+    klass: web-design
+    desc: Design &amp; Development
+  - image: images/@stock/work-4.jpg
+    title: Beautiful Girl
+    link_to: portfolio-item.html
+    klass: print
+    desc: Design &amp; Development
 
 ---
 
-<div class='full'>
+
+<div class='full parallax' style='background-image: url(images/@stock/portfolio-header-bg.jpg); color: #fff;'>
   <div class='row'>
-    <div class='special-title centered-text'>
-      <i class='icon-star'></i>
-      <h2>Portfolio</h2>
-      <p>Our best and featured works so far</p>
-      <p class='shortline'></p>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Our portfolio" tagline="Have a look at our works" color="#fff" class="big" %}
     </div>
   </div>
+  <div class='four spacing'></div>
 </div>
 
 
-<div class='row'>
-  <div class='gallery-wrapper large-12 columns'>
-    <ul class='sub-nav' id='filter'>
-      <li class='current'>
-        <a data-cat='all' href='#'>All</a>
-      </li>
-      {% for category in page.categories %}
-        <li>
-          <a data-cat='{{ category.name | downcase | replace: ' ', '-' }}' href='#'>{{category.name}}</a>
-        </li>
-      {% endfor %}
-    </ul>
-    <div class='spacing'></div>
-    <ul class='gallery small-block-grid-2 medium-block-grid-3 large-block-grid-3'>
-      {% for work in page.works %}
-        <li class='{{ work.categories | map:"name" | join:"##" | downcase | replace:' ', '-' | replace:'##', ' '}}'>
-          <a>
-            <img src='{{site.url}}/images/{{work.image}}'>
-            <div class='overlay'>
-              <div class='thumb-info'>
-                <h3>{{work.title}}</h3>
-                <p>{{ work.categories | map:"name" | join:" &amp; " }}</p>
+<div class='full'>
+  <div class='row'>
+    <div class='mod modGallery'>
+      <div class='gallery-nav'>
+        <ul>
+          <li class='current'>
+            <a data-cat='all' href='#'>All</a>
+          </li>
+          <li>
+            <a data-cat='graphic-design' href='#'>Graphic Design</a>
+          </li>
+          <li>
+            <a data-cat='web-design' href='#'>Web Design</a>
+          </li>
+          <li>
+            <a data-cat='brand' href='#'>Brand</a>
+          </li>
+          <li>
+            <a data-cat='development' href='#'>Development</a>
+          </li>
+          <li>
+            <a data-cat='print' href='#'>Print</a>
+          </li>
+        </ul>
+      </div>
+
+      <ul class='gallery large-block-grid-4 medium-block-grid-3 small-block-grid-2'>
+
+        {% for work in page.works %}
+          <li class="{{ work.klass }}">
+            <a href='{{ work.link_to }}'>
+              <img alt="" src="{{ work.image }}" />
+              <div class='overlay'>
+                <div class='thumb-info'>
+                  <h3>{{ work.title }}</h3>
+                  <p>{{ work.desc }}</p>
+                </div>
               </div>
-            </div>
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
+            </a>
+          </li>
+        {% endfor %}
+
+      </ul>
+
+    </div>
   </div>
+
+  <div class='four spacing'></div>
 </div>
-
-
-<div class="three spacing"></div>
-<div class="three spacing"></div>

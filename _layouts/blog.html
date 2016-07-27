@@ -3,21 +3,21 @@ layout: default
 ---
 
 
-<div class='full'>
-  <div class='row'>
-    <div class='special-title centered-text'>
-      <i class='icon-thumbs-up'></i>
-      <h2>33's Blog</h2>
-      <p>I am passionate about design &amp; development and good products.</p>
-      <p class='shortline'></p>
-    </div>
-    <div class='spacing'></div>
-    <div class='spacing'></div>
-  </div>
+<div class='full parallax' style='background-image: url({{site.url}}/images/@stock/blog-header-bg.jpg); color: #fff;'>
   <div class='row'>
     <div class='large-12 columns'>
+      {% include section-header.html title="MY blog" tagline="Know what I am thinking and doing" color="#fff" class="big" %}
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
 
-      {{ content }}
+
+<div class='full' style='background: #f5f5f5'>
+  <div class='row'>
+    <div class='large-9 columns'>
+
+      {{content}}
 
       {% if paginator %}
         <div class="pager">
@@ -42,6 +42,12 @@ layout: default
         </div>
       {% endif %}
 
+
+      <div class='four spacing'></div>
+    </div>
+    <div class='large-3 columns' id='sidebar'>
+      {% include sidebar.html %}
+      <div class='four spacing'></div>
     </div>
   </div>
 </div>
