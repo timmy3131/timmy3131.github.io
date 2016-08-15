@@ -10,3 +10,6 @@
 - name: Blog
   path: blog/
   section_id: blog
+- name: Photography
+  path: photography.html
+  section_id: photography
