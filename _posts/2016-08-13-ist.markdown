@@ -1,0 +1,26 @@
+---
+layout: post
+title:  有哪些让你相见恨晚的 PPT 制作技术或知识？
+date:   2015-04-14 10:58:12
+images:
+  - images/@stock/blog-3.jpg
+excerpt:
+  Iste neque doloribus dolor quis ad sit dvoluptates sunt
+categories: Logo Development
+---
+
+上星期，某体育赛事公司的朋友找我做一个足球比赛竞标的ppt，出价1k多，被我拒了（因为要准备各种奇葩考试啊啊啊）。而在一个月之前，我是一个从小到大ppt总共做过low ppt不超过10个的人。想知道这一个月发生了什么吗？
+
+---
+layout: post
+title: Best make up product list
+date:   2016-08-13 10:58:12
+images:
+  - images/@stock/blog-5.jpg
+excerpt:
+Best makeup product
+categories: Makeup
+Development
+---
+
+Recommend
