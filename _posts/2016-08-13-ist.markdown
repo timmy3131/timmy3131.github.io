@@ -6,7 +6,7 @@ date:   2015-04-14 10:58:12
 images:
   - images/@stock/blog-3.jpg
 excerpt:
-  Iste neque doloribus dolor quis ad sit dvoluptates sunt
+  66666666
 categories: Logo Development
 ---
 

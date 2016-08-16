@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0109cd72-7bcb-4cbd-8bed-d8b9f5b493e0" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/clients.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/members.yml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/@stock/slide-4.jpg" afterPath="$PROJECT_DIR$/images/@stock/slide-4.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-02-github.markdown" afterPath="$PROJECT_DIR$/_posts/2016-01-02-github.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-27-有哪些让你相见恨晚的 PPT 制作技术或知识？.markdown" afterPath="$PROJECT_DIR$/_posts/2016-01-27-有哪些让你相见恨晚的 PPT 制作技术或知识？.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-08-13-ist.markdown" afterPath="$PROJECT_DIR$/_posts/2016-08-13-ist.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="timmy3131.github.io.iws" />
@@ -31,8 +31,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.042796005">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.64194006">
+              <caret line="30" column="80" selection-start-line="30" selection-start-column="80" selection-end-line="30" selection-end-column="80" />
               <folding />
             </state>
           </provider>
@@ -839,8 +839,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.042796005">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.64194006">
+          <caret line="30" column="80" selection-start-line="30" selection-start-column="80" selection-end-line="30" selection-end-column="80" />
           <folding />
         </state>
       </provider>
