@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  怎样使用 GitHub？
+title:  How to Use GitHub？-Beginner’s Tutorial
 date:   2016-01-02 10:52:12
 images: images/@stock/blog-1.jpg
 excerpt:

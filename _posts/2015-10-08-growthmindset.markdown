@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 有哪些心智技巧能让生活、工作、思考、意志得到改善？-Growth Mindset
+title: Growth Mindset Makes Life Better
 date:   2015-10-18 10:58:12
 images:
   - images/@stock/blog-2.jpg

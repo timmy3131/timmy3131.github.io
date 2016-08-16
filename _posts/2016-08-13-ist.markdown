@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  有哪些让你相见恨晚的 PPT 制作技术或知识？
+title:  Magic Introductory and Advanced Guide for Keynote
+
 date:   2015-04-14 10:58:12
 images:
   - images/@stock/blog-3.jpg
