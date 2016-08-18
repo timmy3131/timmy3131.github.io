@@ -6,22 +6,233 @@ date:   2015-04-14 10:58:12
 images:
   - images/@stock/blog-3.jpg
 excerpt:
-  66666666
-categories: Logo Development
+Keynote进阶学习指南categories: Logo Development
 ---
+
+Keynote进阶学习指南
+
+知乎问题
+【有哪些让你相见恨晚的 PPT 制作技术或知识？】
+
+[原文链接](https://www.zhihu.com/question/20070065/answer/79557687)，欢迎点赞 (*╯3╰)
 
 上星期，某体育赛事公司的朋友找我做一个足球比赛竞标的ppt，出价1k多，被我拒了（因为要准备各种奇葩考试啊啊啊）。而在一个月之前，我是一个从小到大ppt总共做过low ppt不超过10个的人。想知道这一个月发生了什么吗？
 
----
-layout: post
-title: Best make up product list
-date:   2016-08-13 10:58:12
-images:
-  - images/@stock/blog-5.jpg
-excerpt:
-Best makeup product
-categories: Makeup
-Development
----
+只收藏不点赞和感谢的都是耍流氓 ( •̀ω•́ )σ 哼~~
 
-Recommend
+STEP1：前期投资—90元
+
+一个月前，闲的无聊偶然间在微博上发现了我的ppt启蒙老师—许岑，于是狠下心在某宝花90元购买了“美貌大王”@许岑 的keynote教程，用一下午加一晚上的时间边看边练习了40多节课，（不要问我为什么这么短时间可以看完，因为美貌大王是在魅力太大~）
+
+接下来说说这amazing的课程讲了什么吧~
+
+【课程笔记】
+
+#为什么做幻灯片#
+
+为了配合演讲者。
+
+作为演讲的辅助工具，无论是ppt还是keynote做出的幻灯片最终目的都是为演讲者服务，能更清晰的去表达观点才是我们想要的。
+
+那么，演讲的正确步骤是什么呢？
+1：写出逐字稿、念熟
+2：根据逐字稿制作ppt
+3：结合ppt演练
+4：修改ppt
+5：现场彩排。找听众发现问题，再次修改ppt。
+6：正式演讲。
+
+#怎么做幻灯片#
+
+1、先逻辑框架，后内容填充。
+
+结合演讲者的逐字稿做出ppt的逻辑框架，然后把内容大致填充到ppt里去。
+
+2、图片的处理与剪裁
+抹掉图片白色背景，点击图像，即时alpha。
+如果是细节的白色，不好整就用ps，实在不行就把背景改成全白的。
+
+* 即时Alpha
+之前的图片是这样子的
+![](http://ww3.sinaimg.cn/large/85b1eb2djw1f6umj3i9gdj20go0ahaas.jpg)
+
+用了神奇的Alpha之后。。。
+![](http://ww3.sinaimg.cn/large/85b1eb2djw1f6umjs3vypj20go0ah3z6.jpg)
+
+
+3、次序与逻辑
+
+* 2出现，1渐隐（透明度调低），4讲完之后123全部100透明度，相当于强调。
+* 观众一次只注意一点，不要增加观众的认知负担。通过调节不透明度来引导观众的注意力。
+
+4、形状的应用
+
+神器来啦~~~
+
+用笔绘制！！！
+找一张你喜爱的图片，然后“形状”—“用笔绘制”
+当当当当~~~如下：
+![](http://ww2.sinaimg.cn/large/85b1eb2djw1f6umksgt8xj20g109umxt.jpg)
+
+是不是感到了满满的逼格？？
+这是我的练习~
+![](http://ww1.sinaimg.cn/large/85b1eb2djw1f6umlalyxnj20go0cidfx.jpg)
+
+5、动画效果
+
+* 效果要符合逻辑，符合实物的物理规律
+比如： 一个球，动作效果就应该是：掉落+旋转20°
+再比如：锤子手机发布会时，一开始的锤子—掉落效果；一张湖面的图片—涟漪效果；一扇木门—开门效果。
+
+* 巧妙使用两张图片+动画效果（渐隐）
+可以达到意想不到的感觉哦~
+见下图，模仿开机效果!
+
+![](http://ww3.sinaimg.cn/large/85b1eb2djw1f6umm5173rj20go09ndgw.jpg)
+
+* 巧妙利用时间间隔制作倒计时
+![](http://ww3.sinaimg.cn/large/85b1eb2djw1f6ummqtthxj20go0cgmxf.jpg)
+
+* 神奇移动
+当上一页幻灯片与下一页幻灯片有同样的元素出现时（在上一个加神奇移动）
+![](http://ww1.sinaimg.cn/large/85b1eb2djw1f6umncuom0j20go084js0.jpg)
+![](http://ww3.sinaimg.cn/large/85b1eb2djw1f6umniqgw4j20go0973zc.jpg)
+
+
+6、图表
+
+饼形图可以旋转出来，很有冲击力。
+![](http://ww4.sinaimg.cn/large/85b1eb2djw1f6umo7v0iuj20go0afwfa.jpg)
+曲线图拿穹顶之下举例子吧~（据说这幻灯片也是许岑老师做的哦，看看后面的致谢名单吧）
+![](http://ww4.sinaimg.cn/large/85b1eb2djw1f6umowj4f3j20go090q41.jpg)
+
+先出来横纵轴，再一个一个线出来。或者为了突出曲线，可以先放曲线。
+
+7、电影级别的幻灯片
+以乔布斯的苹果发布会举栗子，注意下面几个点就可以达到电影的感觉啦~
+
+* 节奏
+
+3-5句话换PPT，老罗锤子发布会是半小时50-60页，控制你自己的节奏。
+
+* 焦点
+
+一个ppt里面有一个焦点，多个的话依次展示出来（前面说的透明度）
+
+* 构图
+
+多阅读，提高审美。
+
+* 美术
+
+多看好看的图片吧
+
+* 声画对位
+
+8、无论是哪种幻灯片软件的操作最终还是取决于你的审美。
+
+无论是ppt、keynote还是prezi，审美是做好幻灯片最重要的因素。
+去看各种艺术作品和电影进行提高吧。
+
+想要看到更多细节，出门右转：[许岑的幻灯片制作软件 Keynote 视频教程](https://item.taobao.com/item.htm?id=40975579044&toSite=main#detail)
+
+请支持正版
+
+##STEP 2：秋叶ppt教程→这里是“多看”电子书阅读器！！
+
+去天津玩的火车上，在多看上下载了几本书，秋叶的四本ppt小书，里面有很多ppt的小技巧，相当于许岑教程的内容补充啦，看完之后感觉棒棒哒~
+![](http://ww2.sinaimg.cn/large/85b1eb2djw1f6umrn3ihvj20go0tntco.jpg)
+
+STEP 3：在练习中学习
+天津玩回来之后，参加某创业大赛，（你懂得，就是那种文案+ppt大赛），运用最近学的ppt制作技巧们，制作出了一个“很像苹果发布会”（评委老师说）的ppt。其中还利用keynote的动画效果做了我们app的交互设计（根本原因是没有程序猿啊喂！）方法参见：
+为什么会有人用 Keynote 做动画和交互？这能为交互设计提供哪些帮助？ - 原型设计
+
+最后果然拿了第一名~~~
+放几张比赛的ppt吧
+开场：
+![](http://ww4.sinaimg.cn/large/85b1eb2djw1f6umsbccwvj20go0af40i.jpg)
+中间那个app的logo也是用keynote一笔一笔画出来的。（自从会了这个都要抛弃ps了呢）
+![](http://ww2.sinaimg.cn/large/85b1eb2djw1f6umsq26n6j20go0afjso.jpg)
+
+结束语的ppt：（满满的情怀~~~）
+![](http://ww3.sinaimg.cn/large/85b1eb2djw1f6umtb99y4j20go0afwh1.jpg)
+
+庸俗的thank you结尾？
+nope！
+![](http://ww4.sinaimg.cn/large/85b1eb2djw1f6umtoi17uj20go0afwf9.jpg)
+
+STEP 4：不断多看好的ppt总结，收集资源
+昨天北京马拉松的总监来给我们演讲，我的关注点始终在他的ppt上=。=
+嗯，这个图片选的质量很高，搭配16：9的比例很有画面感....但是这个白字在图片上都显示不出来是什么鬼！还有这张字体不太统一啊~
+
+通过不断看别人的ppt和模板，不断总结，最终的效果是自己也可以去做模板啦啦啦啦
+~\(≧▽≦)/~
+
+平时也要多留意收集好看的图片、设计，很赞的音频视频，便于以后制作找素材~
+
+这里说一下我最近新建的设计师资源库，如图只是一部分：
+![](http://ww4.sinaimg.cn/large/85b1eb2djw1f6umux1qaoj20go0l4dkh.jpg)
+
+链接在此：[github.com](https://link.zhihu.com/?target=https%3A//github.com/timmy3131/design-resource) 的页面 是开源的项目，欢迎大家不断补充~
+[github教程：怎样使用 GitHub？ - 珊姗是个小太阳的回答](https://www.zhihu.com/question/20070065/answer/79557687)
+
+------------
+原答案：
+最后po几个我在做ppt的时候发现的好用的素材网站：
+
+找图片：
+
+[如何为 PPT 找合适的配图？](http://www.zhihu.com/question/20987759/answer/25026775)
+
+花瓣网：花瓣网_发现、采集你喜欢的一切
+flicker：https://www.flickr.com
+
+找图标：
+
+[House Icons - Download 385 Free House Icon (Page 1)](https://link.zhihu.com/?target=http%3A//findicons.com/search/house)
+
+[NounProject](https://link.zhihu.com/?target=http%3A//thenounproject.com/)
+
+选配色：（用好取色功能哦~）
+
+[色彩心理学：设计师的选色指南.png](https://link.zhihu.com/?target=http%3A//vdisk.weibo.com/s/u038UQN2PdzI)
+
+[Color - Style](https://link.zhihu.com/?target=http%3A//www.google.com/design/spec/style/color.html%23color-color-palette)
+
+找范例：
+
+[1100+ Presentation Templates](https://link.zhihu.com/?target=http%3A//graphicriver.net/category/presentation-templates)
+
+【彩蛋】~~喵~~~~
+
+整理下知乎上对我很有帮助的与ppt有关的回答，放链接，表示感谢：
+
+[如何让 PowerPoint 幻灯片「高大上」？ - 郦橙锦妖的回答](http://www.zhihu.com/question/22718708/answer/22568837)
+
+[怎样做出优秀的扁平化设计风格 PPT 或 Keynote 幻灯片演示文稿？ - 用户体验设计](http://www.zhihu.com/question/21274267)
+
+[如何评价 MX4 发布会的 Keynote 幻灯片设计及演讲水平？](http://www.zhihu.com/question/25088460)
+
+[使用 Keynote 做高保真动效交互设计原型，有哪些教程或学习资料？](http://www.zhihu.com/question/24563983)
+
+[如何评价 MX4 发布会的 Keynote 幻灯片设计及演讲水平？](http://www.zhihu.com/question/25088460)
+
+[怎样做出优秀的 Material Design 设计风格 PPT 或 Keynote 幻灯片演示文稿？ - 知乎用户的回答](http://www.zhihu.com/question/26716269/answer/36076460)
+
+#鉴于n多人问我keynote做出来之后如何在win上播放，在此更新一并告诉大家
+
+首先你可以选择导出的格式：
+
+如果不需要动画效果→PDF
+需要动画效果：
+
+planA：去某宝买一个转换接头，直接连接你的air/pro到投影仪，就可以有炫酷的效果啦~这是我买的链接，店主人超好，因为我当时比赛很着急，一直在问他，很nice的告诉了我电话一步一步帮我解决~棒棒哒，推荐大家！！
+[苹果笔记本macbook air pro vga转接线头视频转换器MAC投影线配件-tmall.com天猫](https://link.zhihu.com/?target=http%3A//detail.tmall.com/item.htm%3Fid%3D38242179235%26spm%3Da1z09.2.9.99.pju6GL%26_u%3Dau8lafe6603)
+
+planB：木有时间买转换接头、转换头连接不上？
+导出格式为Quicktime！可以放在win下播放啦，但是是视频格式，需要你一直按暂停，这是下下策了，还是建议大家买个转换头很方便~
+
+再次感谢许岑老师~希望大家可以支持正版哦！
+祝好。
+
+[原文链接](https://www.zhihu.com/question/20070065/answer/79557687)，欢迎点赞 (*╯3╰)

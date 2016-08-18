@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Growth Mindset Makes Life Better
+title: Growth Mindset Makes Your Life Better
 date:   2015-10-18 10:58:12
 images:
   - images/@stock/blog-2.jpg
